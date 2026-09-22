@@ -10,4 +10,4 @@ elif persen >= 70:
 elif persen >= 60:
     print("Average performance")
 else:
-    print("Poor performance")
+    print("Poor performance") 
