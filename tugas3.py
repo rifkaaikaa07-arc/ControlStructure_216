@@ -1,4 +1,4 @@
-#fibonacci
+#fibonaccii
 n = int(input("Masukkan nilai n: "))
 
 a, b = 0, 1
